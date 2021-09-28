@@ -1,10 +1,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, React, jQuery],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["React", "jQuery"],
          css: ["Bulma", "Bootstrap", "Semantic UI"]
       },
       backEnd: {
@@ -13,8 +13,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["fullstack developer student"],
+   challenge: "",
 };
 ```
 </br></br>
