@@ -12,7 +12,7 @@ const aboutMe = {
          js: ["Node", "Express"],
          misc: ["Bash", "Terminal"]
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "mySQL", "GraphQL"],
    },
    currentOccupation: "fullstack developer student",
    challenges: ["Currently mastering React","Algorithms"]
