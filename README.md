@@ -14,8 +14,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "GraphQL"],
    },
-   currentOccupation: "fullstack developer student",
-   challenges: ["Currently mastering React","Algorithms"]
+   currentOccupation: "MERNG developer",
+   currentChallenges: ["Currently mastering React","Algorithms"]
 };
 ```
 <h2>💻 Pat's stats 💻</h2>
