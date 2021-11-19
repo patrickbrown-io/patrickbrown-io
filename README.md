@@ -6,15 +6,15 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "jQuery"],
-         css: ["Bulma", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"]
+         css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"]
       },
       backEnd: {
          js: ["Node", "Express"],
          misc: ["Bash", "Terminal"]
       },
-      databases: ["MongoDB", "mySQL", "GraphQL"],
+      databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
    },
-   currentOccupation: "MERNG developer",
+   currentOccupation: "MERNG development",
    currentChallenges: ["Currently working on a PERN+G project"]
 };
 ```
