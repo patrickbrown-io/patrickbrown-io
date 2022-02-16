@@ -2,7 +2,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [TypeScript, JavaScript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "jQuery"],
@@ -10,12 +10,15 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         misc: ["Bash", "Terminal"]
+         misc: ["Docker"]
       },
+      mobile: {
+         js: ["React Native"]
+         misc: ["Android Studio", "XCode"]
       databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
    },
-   currentOccupation: "MERNG development",
-   currentChallenges: ["Currently working on a PERN+G project"]
+   currentOccupation: "Teaching Assistant - University of Denver",
+   currentChallenges: ["Currently working on a React Native Application - React Native/Express/postgreSQL/GraphQL"]
 };
 ```
 <h2>💻 Pat's stats 💻</h2>
