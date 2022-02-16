@@ -15,7 +15,7 @@ const aboutMe = {
       mobile: {
          js: ["React Native"],
          misc: ["Android Studio", "XCode"]
-   },
+      },
    
    databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
 
