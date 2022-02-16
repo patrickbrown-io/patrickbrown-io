@@ -13,10 +13,12 @@ const aboutMe = {
          misc: ["Docker"]
       },
       mobile: {
-         js: ["React Native"]
+         js: ["React Native"],
          misc: ["Android Studio", "XCode"]
-      databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
    },
+   
+   databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
+
    currentOccupation: "Teaching Assistant - University of Denver",
    currentChallenges: ["Currently working on a React Native Application - React Native/Express/postgreSQL/GraphQL"]
 };
