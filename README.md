@@ -9,7 +9,7 @@ const aboutMe = {
          css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", GraphQL],
          misc: ["Docker"]
       },
       mobile: {
@@ -17,7 +17,7 @@ const aboutMe = {
          misc: ["Android Studio", "XCode"]
       },
    
-   databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
+   databases: ["MongoDB", "mySQL","postgreSQL"],
 
    currentOccupation: "Teaching Assistant - University of Denver",
    currentChallenges: ["Currently working on a iOS Application - React Native/Express/postgreSQL/GraphQL"]
