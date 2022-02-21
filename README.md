@@ -20,7 +20,7 @@ const aboutMe = {
    databases: ["MongoDB", "mySQL","postgreSQL", "GraphQL"],
 
    currentOccupation: "Teaching Assistant - University of Denver",
-   currentChallenges: ["Currently working on a React Native Application - React Native/Express/postgreSQL/GraphQL"]
+   currentChallenges: ["Currently working on a iOS Application - React Native/Express/postgreSQL/GraphQL"]
 };
 ```
 <h2>💻 Pat's stats 💻</h2>
