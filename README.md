@@ -17,7 +17,7 @@ const aboutMe = {
          misc: ["Android Studio", "XCode"]
       },
    
-   databases: [MongoDB, mySQL, postgreSQL],
+   databases: ["MongoDB", "mySQL", "postgreSQL"],
 
    currentOccupation: "Teaching Assistant - University of Denver",
    currentChallenges: ["Currently working on a iOS Application - React Native/Express/postgreSQL/GraphQL"]
