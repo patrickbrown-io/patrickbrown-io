@@ -19,7 +19,7 @@ const aboutMe = {
    
    databases: ["MongoDB", "mySQL", "postgreSQL"],
 
-   currentOccupation: "Teaching Assistant - University of Denver",
+   currentOccupation: "Software Engineer - Colorado University Boulder",
    currentChallenges: ["Currently working on a iOS Application - React Native/Express/postgreSQL/GraphQL"]
 };
 ```
