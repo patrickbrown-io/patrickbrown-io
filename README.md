@@ -9,20 +9,17 @@ const aboutMe = {
          css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"]
       },
       backEnd: {
-         js: ["Node", "Express", GraphQL],
-         misc: ["Docker"]
+         js: ["Node", "Express"],
+         misc: ["Docker", GraphQL]
       },
       mobile: {
          js: ["React Native"],
          misc: ["Android Studio", "XCode"]
       },
    
-   databases: ["MongoDB", "mySQL", "postgreSQL"],
+   databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
 
    currentOccupation: "Software Engineer - Colorado University Boulder",
-   currentChallenges: ["Currently working on a iOS Application - React Native/Express/postgreSQL/GraphQL"]
+   currentChallenges: ["Currently working on a iOS Application - React Native/postgreSQL/GraphQL"]
 };
 ```
-<h2>💻 Pat's stats 💻</h2>
-
-![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=patrickbrown-io&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
