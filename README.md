@@ -17,7 +17,7 @@ const aboutMe = {
          misc: ["Android Studio", "XCode"]
       },
    
-   databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
+   databases: ["MongoDB", "mySQL", postgreSQL, "MariaDB"],
 
    currentOccupation: "Software Engineer - Colorado University Boulder",
    currentChallenges: ["Currently working on a iOS Application - React Native/postgreSQL/GraphQL"]
