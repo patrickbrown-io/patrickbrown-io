@@ -7,10 +7,11 @@ const aboutMe = {
       frontEnd: {
          js: [React, "jQuery"],
          css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"]
+         templates: ["Handlebars", "Twig"]
       },
       backEnd: {
          js: ["Node", "Express"],
-         misc: ["Docker", GraphQL]
+         misc: ["Docker", GraphQL, "Redis"]
       },
       mobile: {
          js: ["React Native"],
