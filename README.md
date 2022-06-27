@@ -6,7 +6,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: [React, "jQuery"],
-         css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"]
+         css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"],
          templates: ["Handlebars", "Twig"]
       },
       backEnd: {
