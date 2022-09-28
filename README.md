@@ -21,6 +21,6 @@ const aboutMe = {
    databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
 
    currentOccupation: "Software Engineer - Colorado University Boulder",
-   currentChallenges: ["Discord Bots", "Exploring JAM stack architecture"]
+   currentChallenges: ["Discord Bots", "React Native", "Exploring JAM stack architecture"]
 };
 ```
