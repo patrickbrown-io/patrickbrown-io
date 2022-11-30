@@ -17,7 +17,7 @@ const aboutMe = {
          js: ["React Native"],
          misc: ["Android Studio", "XCode"]
       },
-      
+   },  
    CMS: ["Drupal", "WordPress", "SquareSpace"],
    
    databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
