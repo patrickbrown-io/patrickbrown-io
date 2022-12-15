@@ -5,7 +5,7 @@ const aboutMe = {
    code: [TypeScript, JavaScript, PHP, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: [React, "jQuery"],
+         js: [React, "jQuery", "Web Components"],
          css: ["Bulma", "Styled-Components", "Bootstrap", "Semantic UI", "Material UI", "Tailwind"],
          templates: ["Handlebars", "Twig"]
       },
