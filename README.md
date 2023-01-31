@@ -19,7 +19,7 @@ const aboutMe = {
       },
    }, 
    
-   CMS: ["Drupal 8/9", "WordPress", "SquareSpace"],
+   CMS: ["Drupal 8/9/10", "WordPress", "SquareSpace"],
    
    databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
 
