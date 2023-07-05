@@ -2,7 +2,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" || "him",
-   code: [TypeScript, JavaScript, PHP, HTML, CSS],
+   code: [TypeScript, JavaScript, PHP, Python, HTML, CSS],
    technologies: {
       frontEnd: {
          js: [React, "jQuery", "Web Components"],
@@ -24,6 +24,6 @@ const aboutMe = {
    databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
 
    currentOccupation: "Software Engineer - Colorado University Boulder",
-   currentChallenges: ["Multiplayer Web Application"]
+   currentChallenges: ["MERN Multiplayer Web Application & Learning Python"]
 };
 ```
