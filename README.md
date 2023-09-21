@@ -10,11 +10,11 @@ const aboutMe = {
          templates: ["Handlebars", "Twig", "Nunjucks"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: [Node, "Express"],
          misc: ["Docker", GraphQL, "Redis"]
       },
       mobile: {
-         js: ["React Native"],
+         js: [React Native],
          misc: ["Android Studio", "XCode"]
       },
    }, 
