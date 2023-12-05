@@ -24,6 +24,6 @@ const aboutMe = {
    databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
 
    currentOccupation: "Software Engineer - Colorado University Boulder",
-   currentChallenges: ["PERN Multiplayer Web Application", "BS of Computer Science @ Colorado University"]
+   currentChallenges: ["PERN Multiplayer Web Application", "BS, Computer Science: Colorado University Boulder, 2025"]
 };
 ```
