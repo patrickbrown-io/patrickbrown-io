@@ -18,11 +18,11 @@ const aboutMe = {
          misc: ["Android Studio", "XCode"]
       },
       testing: ["Jest"],
-   }, 
-   
-   CMS: ["Drupal 8/9/10", "WordPress", "SquareSpace"],
-   
-   databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
+
+      CMS: ["Drupal 8/9/10", "WordPress", "SquareSpace"],
+      
+      databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
+   },
 
    currentOccupation: "Software Engineer - Colorado University Boulder",
    currentChallenges: ["PERN Multiplayer Web Application", "BSc Computer Science - Colorado University, Boulder"]
