@@ -14,7 +14,7 @@ const aboutMe = {
          misc: ["Docker", GraphQL, "Redis"]
       },
       mobile: {
-         js: [React Native],
+         js: ["React Native"],
          misc: ["Android Studio", "XCode"]
       },
       testing: ["Jest"],
