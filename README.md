@@ -23,6 +23,6 @@ const aboutMe = {
    },
 
    currentOccupation: "Software Engineer - Colorado University, Boulder",
-   currentProjects: ["PERN Multiplayer Web Application", "BSc in Computer Science - Colorado University, Boulder - est 2026"]
+   currentProjects: ["PERN Multiplayer Web Application", "BSc in Computer Science - Colorado University, Boulder 2026"]
 };
 ```
