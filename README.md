@@ -20,6 +20,7 @@ const aboutMe = {
       testing: ["Jest"],
       CMS: ["Drupal 8/9/10", "WordPress", "SquareSpace"],
       databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
+      IoT: ["Arduino"]
    },
 
    currentOccupation: "Software Engineer - Colorado University, Boulder",
