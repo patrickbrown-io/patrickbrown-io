@@ -18,7 +18,7 @@ const aboutMe = {
          misc: ["Android Studio", "XCode"]
       },
       testing: ["Jest"],
-      CMS: ["Drupal 8/9/10", "WordPress", "SquareSpace"],
+      CMS: ["Drupal 8/9/10/11", "WordPress", "SquareSpace"],
       databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
    },
 
