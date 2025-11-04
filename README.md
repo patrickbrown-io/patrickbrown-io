@@ -24,6 +24,5 @@ const aboutMe = {
    },
 
    currentOccupation: "Software Engineer - Colorado University, Boulder",
-   currentProjects: ["Unity"]
 };
 ```
