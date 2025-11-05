@@ -22,7 +22,7 @@ const aboutMe = {
       testing: ["Jest", "Unittest"],
       CMS: ["Drupal 8/9/10/11", "WordPress", "SquareSpace"],
    },
-
    currentOccupation: "Software Engineer - Colorado University, Boulder",
+   currentProjects: ["Bachelor's Degree in Computer Science - Colorado University Boulder", "Basic Robotics Programming"]
 };
 ```
