@@ -23,6 +23,6 @@ const aboutMe = {
       CMS: ["Drupal 8/9/10/11", "WordPress", "SquareSpace"],
    },
    currentOccupation: "Software Engineer - Colorado University, Boulder",
-   currentProjects: ["B.S. Computer Science - Colorado University, Boulder", "Foundations of Robotics"]
+   currentProjects: ["B.S. Computer Science - Colorado University, Boulder", "Exploring the foundations of robotics"]
 };
 ```
