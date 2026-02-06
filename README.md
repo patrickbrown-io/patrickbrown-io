@@ -1,7 +1,7 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" || "him",
+   pronouns: ["he", "him"]
    code: [TypeScript, JavaScript, PHP, Python, C, C++, C#, Java, HTML, CSS],
    technologies: {
       frontEnd: {
@@ -17,6 +17,11 @@ const aboutMe = {
       mobile: {
          js: ["React Native"],
          misc: ["Android Studio", "XCode"]
+      },
+      dataScience: {
+         python: ["NumPy", "Pandas"],
+         visualization: ["Matplotlib", "Seaborn"],
+         workflows: ["Jupyter Notebooks", "Data Cleaning", "Exploratory Data Analysis"]
       },
       databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
       testing: ["Jest", "Unittest"],
