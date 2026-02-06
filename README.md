@@ -1,7 +1,7 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: ["he", "him"]
+   pronouns: ["he", "him"],
    code: [TypeScript, JavaScript, PHP, Python, C, C++, C#, Java, HTML, CSS],
    technologies: {
       frontEnd: {
