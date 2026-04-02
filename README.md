@@ -21,7 +21,6 @@ const aboutMe = {
       dataScience: {
          python: ["NumPy", "Pandas"],
          visualization: ["Matplotlib", "Seaborn"],
-         workflows: ["Jupyter Notebooks", "Data Cleaning", "Exploratory Data Analysis"]
       },
       databases: ["MongoDB", "mySQL", "postgreSQL", "MariaDB"],
       testing: ["Jest", "Unittest"],
