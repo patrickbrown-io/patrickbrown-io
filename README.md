@@ -12,7 +12,7 @@ const aboutMe = {
       backEnd: {
          js: [Node, "Express"],
          py: ["Flask"],
-         misc: ["Docker", GraphQL, "Redis"]
+         misc: ["Docker", "GraphQL", "Redis"]
       },
       mobile: {
          js: ["React Native"],
