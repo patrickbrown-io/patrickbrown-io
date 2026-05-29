@@ -16,7 +16,7 @@ const aboutMe = {
       },
       mobile: {
          js: ["React Native"],
-         misc: ["Android Studio", "XCode"]
+         misc: ["Android Studio"]
       },
       dataScience: {
          python: ["NumPy", "Pandas"],
